@@ -1,0 +1,12 @@
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\bin\Debug\AirQualityApp.exe.config
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\bin\Debug\AirQualityApp.exe
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\bin\Debug\AirQualityApp.pdb
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\bin\Debug\SnmpSharpNet.dll
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\bin\Debug\SnmpSharpNet.pdb
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\bin\Debug\SnmpSharpNet.xml
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\obj\Debug\AirQualityApp.csprojResolveAssemblyReference.cache
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\obj\Debug\AirQualityApp.Home.resources
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\obj\Debug\AirQualityApp.Properties.Resources.resources
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\obj\Debug\AirQualityApp.csproj.GenerateResource.Cache
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\obj\Debug\AirQualityApp.exe
+c:\users\kola\documents\visual studio 2012\Projects\AirQualityApp\AirQualityApp\obj\Debug\AirQualityApp.pdb
